@@ -1,3 +1,3 @@
-he/him
+_he/him_
 cs-math
 first year
