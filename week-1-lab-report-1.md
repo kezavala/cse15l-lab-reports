@@ -4,4 +4,6 @@ __Lab Report 1__
 ![Image](lsexample1.png)
 ![Image](cdexample.png)
 ![Image](catexample.png)
+![Image](catexample2.png)
+![Image](catexample3.png)
 
