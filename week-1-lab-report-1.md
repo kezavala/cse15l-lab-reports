@@ -1,7 +1,7 @@
 # __Lab Report 1__
 
 ## __ls__
-![Image](lsexample2.png) <br/
+![Image](lsexample2.png) <br>
 _When using ls without an argument: The output would result in listing the directories and or files within that directory._ <br/>
 ![Image](lsexample4.png) <br/>
 _When using ls with a path to directory: The output would result in listing the directories and or files within that directory._ <br/>
