@@ -3,7 +3,7 @@ __Lab Report 1__
 ![Image](lsexample2.png)
 ![Image](lsexample1.png)
 ![Image](cdexample.png)
-![Image](catexample.png)
 ![Image](catexample2.png)
+![Image](catexample.png)
 ![Image](catexample3.png)
 
