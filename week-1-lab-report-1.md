@@ -18,7 +18,7 @@ _When using cd with a path to file: The output would result in an error because 
 
 ## __cat__
 ![Image](catexample2.png) <br/>
-__When using cat without an argument: The output would result into taking you out of the terminal._ <br/>
+_When using cat without an argument: The output would result into taking you out of the terminal._ <br/>
 ![Image](catexample3.png) <br/>
 _When using cat with a path to directory: The output would result into an error because cat can not display directories._ <br/>
 ![Image](catexample.png) <br/>
