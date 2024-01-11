@@ -10,7 +10,7 @@ _When using ls with a path to file: The output would result in an error because 
 
 ## __cd__
 ![Image](cdexample.png) <br/>
-__When using cd without an argument: The output would result in taking the user back to the home directory._ <br/>
+_When using cd without an argument: The output would result in taking the user back to the home directory._ <br/>
 ![Image](cdexample7.png) <br/>
 _When using cd with a path to directory: The output would result in taking the user inside the stated directory if it exists._ <br/>
 ![Image](cdexample4.png) <br/>
